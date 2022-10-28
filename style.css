@@ -1,0 +1,10 @@
+body{
+    background-color: #e7dfd2;
+}
+
+.main-add_list{
+    align-content: center;
+    margin: 10rem;
+    border: 1px solid black;
+    border-radius: 3rem;
+}
