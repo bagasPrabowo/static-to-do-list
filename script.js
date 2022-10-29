@@ -7,3 +7,11 @@ function addList(){
 function getText(){
     return document.querySelector('input').value;
 }
+
+function deleteList(){
+    return document.writeln('deleted')
+}
+
+function editList(){
+    return document.writeln('edited');
+}
