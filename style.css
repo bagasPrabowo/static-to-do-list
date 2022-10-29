@@ -2,11 +2,21 @@ body{
     background-color: #e7dfd2;
 }
 
-.add_list{
+.title{
+    background-color: plum;
+    color: #472525;
+    text-align: center;
+    margin: 0%;
+}
+
+input{
+    border-radius: 5px;
+    align-items: center;
+}
+
+.form-list{
     align-content: center;
-    margin: 10rem;
-    border: 1px solid black;
-    border-radius: 3rem;
+    margin: 5rem 20rem;
 }
 
 .to-do_list {
